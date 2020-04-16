@@ -1,0 +1,14 @@
+{
+  "name": "juegocartasweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "colchado",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}
